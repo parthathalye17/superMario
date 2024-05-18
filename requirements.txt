@@ -1,0 +1,9 @@
+gym-super-mario-bros==7.3.0
+nes-py==8.2.1
+stable-baselines3==1.1.0
+gym==0.17.3
+numpy==1.26.4
+matplotlib==3.9.0
+torch==2.3.0+cu121
+opencv-python==4.9.0.80
+cloudpickle==1.6.0
